@@ -79,7 +79,7 @@ floatingEmojis: {
     music: {
         enabled: true,                     // Music feature is enabled
         autoplay: true,                    // Try to autoplay (note: some browsers may block this)
-        musicUrl: "https://music.youtube.com/watch?v=uNYvTilPQxE&si=vgvNA37n__ZPycoH", // Music streaming URL
+        musicUrl: "YOUR_CLOUDINARY_URL_HERE", // Music streaming URL
         startText: "🎵 Play Music",        // Button text to start music
         stopText: "🔇 Stop Music",         // Button text to stop music
         volume: 0.5                        // Volume level (0.0 to 1.0)
